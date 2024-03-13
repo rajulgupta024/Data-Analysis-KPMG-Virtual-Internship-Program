@@ -27,3 +27,11 @@ Identified high-value customer segments using Excel-based RFM analysis, resultin
 Developed an Excel-based predictive CLV model that accurately forecasted customer spending patterns, enabling proactive customer engagement and personalized marketing strategies.
 Conducted A/B testing experiments in Excel to measure the effectiveness of marketing campaigns and optimize campaign targeting and messaging.
 Automated data extraction and processing tasks in Excel, reducing manual effort and improving data processing efficiency by 30%.
+
+LinkedIn
+https://www.linkedin.com/in/rajulgupta024/
+
+GitHub
+https://github.com/rajulgupta024
+
+Project Link: https://github.com/rajulgupta024/Data-Analysis-KPMG-Virtual-Internship-Program/tree/main
